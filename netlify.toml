@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build" # Replace with the command to build your project
+  functions = "netlify-functions" # The directory where your serverless functions reside
+
+[dev]
+  command = "npm run dev" # Your development command
